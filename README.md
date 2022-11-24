@@ -61,7 +61,7 @@ This project help to track your subscriptions. It helps to track and predict you
 
 **Main stack:** React, Redux, Tailwind CSS, Express.js, PosgreSQL.
 
-**GitHub:** https://github.com/annabiruk/subscriptions-tracker
+**GitHub:** [https://github.com/annabiruk/subscriptions-tracker](https://github.com/anna-biruk/subscriptions-tracker)
   
   
 
