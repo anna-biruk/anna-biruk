@@ -47,6 +47,13 @@ API, PostgreSQl
 
 **Restaurant visitor app:** https://api.qs.cafe/t?i=BXvor6ZLtFNLUqfs
 
+- **E-commerce shop**
+
+**Main stack:** React, Redux Toolkit, styled-components
+
+**GitHub:** https://github.com/anna-biruk/e-commerce-shop
+
+
 - **Pricer**
 
 This is a project which comparing Polish and Belarusian prices for products. It finds alternative products for any product you click on.
