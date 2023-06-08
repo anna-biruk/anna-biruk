@@ -18,7 +18,7 @@
 ### Glad to see you here!  
 
 - 💻  I’m a **Front-end Software Engineer**
-- ❗One year of experience with React/Redux  
+- ❗Two years of experience with React/Redux  
 - ⚡ Some experience with Node.js
 - 🔭 I’m currently open to work
 
