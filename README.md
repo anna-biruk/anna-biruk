@@ -31,21 +31,13 @@ AceCode is a platform that helps engineers pass their coding interviews and incr
 
 **Main stack:** React, Gatsby, Material UI, GraphQL Apollo Server, Apollo Client, Express.js, Lodash
 
-**Website link:** https://acecode.io/
-
 
 - **QS.cafe**
 
-QS.cafe is a project, which helps restaurants increase traffic by running smart and cost-efficient advertising campaigns. We create Qr-code menus for restaurants with an attractive and simple design.
+QS.cafe is a project, which helps restaurants increase traffic by running smart and cost-efficient advertising campaigns. We create QR-code menus for restaurants with an attractive and simple design.
 
 **Main stack:** React, Redux, Material UI, Express, REST
-API, PostgreSQl
-
-**Tenant app:** https://not1984.qs.cafe/
-
-**Admin panel app:** https://app.qs.cafe/
-
-**Restaurant visitor app:** https://api.qs.cafe/t?i=BXvor6ZLtFNLUqfs
+API, PostgreSQL
 
 - **E-commerce shop**
 
@@ -56,7 +48,7 @@ API, PostgreSQl
 
 - **Pricer**
 
-This is a project which comparing Polish and Belarusian prices for products. It finds alternative products for any product you click on.
+This is a project which compares Polish and Belarusian prices for products. It finds alternative products for any product you click on.
 
 **Main stack:** React, Redux Toolkit, Material UI, Express.js, MongoDB.
 
@@ -64,9 +56,9 @@ This is a project which comparing Polish and Belarusian prices for products. It 
 
 - **Subscriptions tracker**
 
-This project help to track your subscriptions. It helps to track and predict your spending's on subscriptions.
+This project helps to track your subscriptions. It helps to track and predict your spending on subscriptions.
 
-**Main stack:** React, Redux, Tailwind CSS, Express.js, PosgreSQL.
+**Main stack:** React, Redux, Tailwind CSS, Express.js, PostgreSQL.
 
 **GitHub:** [https://github.com/annabiruk/subscriptions-tracker](https://github.com/anna-biruk/subscriptions-tracker)
   
