@@ -32,12 +32,34 @@ AceCode is a platform that helps engineers pass their coding interviews and incr
 **Main stack:** React, Gatsby, Material UI, GraphQL Apollo Server, Apollo Client, Express.js, Lodash
 
 
+**Responsibilities:**
+
+- Development of web applications;
+- Participation in the evaluation, planning, and development of the project architecture;
+- Active participation in the code review and meetings with the client;
+
+**Achievements:**
+
+- Successfully enhanced user experience and decreased the number of UI bugs by proposing and implementing a mobile-first approach to the development. It was needed because the vast majority of users were mobile users.
+- Improved page loading speed and overall performance of the website by researching and breaking down bundle into smaller pieces and implementing lazy-loading.
+- Improved the API by replacing the old unstructured REST-like API endpoints with GraphQL which eliminated network round-trips and improved user experience because they started to see the required information faster.
+
+
 - **QS.cafe**
 
 QS.cafe is a project, which helps restaurants increase traffic by running smart and cost-efficient advertising campaigns. We create QR-code menus for restaurants with an attractive and simple design.
 
-**Main stack:** React, Redux, Material UI, Express, REST
-API, PostgreSQL
+**Main stack:** React, Redux, Material UI, Express, REST API, PostgreSQL
+
+**Achievements:**
+
+- Designed and developed REST API for the platform.
+- Improved the internal admin panel by making a reusable component library which increased the speed of refactoring and delivering new features.
+- Built the tenant app from scratch. Designed the architecture, and collaborated with the product team to figure out the requirements. It was a big piece of work that I owned from 0 to production.
+- Provided timely and effective support and bug fixes for the restaurant visitor app, resulting in a higher level of customer satisfaction
+
+I had a significant impact on the platform becoming more efficient and user-friendly which resulted in acquiring more customers and great feedback from the end users.
+
 
 - **E-commerce shop**
 
