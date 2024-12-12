@@ -18,81 +18,11 @@
 ### Glad to see you here!  
 
 - 💻  I’m a **Front-end Software Engineer**
-- ❗Three years of experience with React/Redux  
+- ❗Four years of experience with React/Redux  
 - ⚡ Some experience with Node.js
 - 🔭 I’m currently open to work
 
 I am a hard-working person, so I am ready to spend a lot of time learning new things and doing work. I am not scared of new tasks and always finish everything I start.
-
-**My projects:**
-- **AceCode**
-
-AceCode is a platform that helps engineers pass their coding interviews and increase their salary offers.
-
-**Main stack:** React, Gatsby, Material UI, GraphQL Apollo Server, Apollo Client, Express.js, Lodash
-
-
-**Responsibilities:**
-
-- Development of web applications;
-- Participation in the evaluation, planning, and development of the project architecture;
-- Active participation in the code review and meetings with the client;
-
-**Achievements:**
-
-- Successfully enhanced user experience and decreased the number of UI bugs by proposing and implementing a mobile-first approach to the development. It was needed because the vast majority of users were mobile users.
-- Improved page loading speed and overall performance of the website by researching and breaking down bundle into smaller pieces and implementing lazy-loading.
-- Improved the API by replacing the old unstructured REST-like API endpoints with GraphQL which eliminated network round-trips and improved user experience because they started to see the required information faster.
-
-
-- **QS.cafe**
-
-QS.cafe is a project, which helps restaurants increase traffic by running smart and cost-efficient advertising campaigns. We create QR-code menus for restaurants with an attractive and simple design.
-
-**Main stack:** React, Redux, Material UI, Express, REST API, PostgreSQL
-
-**Achievements:**
-
-- Designed and developed REST API for the platform.
-- Improved the internal admin panel by making a reusable component library which increased the speed of refactoring and delivering new features.
-- Built the tenant app from scratch. Designed the architecture, and collaborated with the product team to figure out the requirements. It was a big piece of work that I owned from 0 to production.
-- Provided timely and effective support and bug fixes for the restaurant visitor app, resulting in a higher level of customer satisfaction
-
-I had a significant impact on the platform becoming more efficient and user-friendly which resulted in acquiring more customers and great feedback from the end users.
-
-
-- **E-commerce shop**
-
-**Main stack:** React, Redux Toolkit, styled-components
-
-**GitHub:** https://github.com/anna-biruk/e-commerce-shop
-
-
-- **Pricer**
-
-This is a project which compares Polish and Belarusian prices for products. It finds alternative products for any product you click on.
-
-**Main stack:** React, Redux Toolkit, Material UI, Express.js, MongoDB.
-
-**GitHub:** https://github.com/anna-biruk/pricer
-
-- **Subscriptions tracker**
-
-This project helps to track your subscriptions. It helps to track and predict your spending on subscriptions.
-
-**Main stack:** React, Redux, Tailwind CSS, Express.js, PostgreSQL.
-
-**GitHub:** [https://github.com/annabiruk/subscriptions-tracker](https://github.com/anna-biruk/subscriptions-tracker)
-  
-  
-
-<br/>  
-
-
-
-
-
-
 
 
 ## Languages and Tools  
